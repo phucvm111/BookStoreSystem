@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\dataaccess\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\bookmanagement\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\bookmanagement\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\repository\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|solutionrelative:repository\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\repository\\orderdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|solutionrelative:repository\\orderdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\repository\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|solutionrelative:repository\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\repository\\dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|solutionrelative:repository\\dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\repository\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|solutionrelative:repository\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\dataaccess\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\repository\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|solutionrelative:repository\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\bookmanagement\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\bookmanagement\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\dataaccess\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\bookmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\bookmanagement\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\bookmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\bookmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\repository\\rolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|solutionrelative:repository\\rolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\repository\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|solutionrelative:repository\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\dataaccess\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\bookmanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\bookmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\bookmanagement\\bookmanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\bookmanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\bookmanagement\\bookmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{072D42FC-AEAA-4084-A08F-E4EEF82CEE29}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\bookmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\repository\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|solutionrelative:repository\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|solutionrelative:repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\dataaccess\\model\\bookmanagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\model\\bookmanagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\repository\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|solutionrelative:repository\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\repository\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BCEB94-A395-43B7-821D-4BA7183642F3}|Repository\\Repository.csproj|solutionrelative:repository\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\dataaccess\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\dataaccess\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\onedrive\\desktop\\prn212\\solution-trial-pe\\bookmanagement\\dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B8BC6B9-786E-46C1-91BF-49FE99891E0D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 32,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\App.xaml",
+              "RelativeDocumentMoniker": "BookManagement\\App.xaml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\App.xaml",
+              "RelativeToolTip": "BookManagement\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T10:22:19.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookManagement\\CustomerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "BookManagement\\CustomerWindow.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:17:45.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagement\\CustomerWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\CustomerWindow.xaml",
+              "RelativeToolTip": "BookManagement\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T10:17:19.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookManagement\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "BookManagement\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAANIBAAAAAAAAAAAcwN8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:15:44.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagement\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\AdminWindow.xaml",
+              "RelativeToolTip": "BookManagement\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T10:14:54.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BookManagement\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\AssemblyInfo.cs",
+              "RelativeToolTip": "BookManagement\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:10:27.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookManagement",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\BookManagement.csproj",
+              "RelativeDocumentMoniker": "BookManagement\\BookManagement.csproj",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\BookManagement.csproj",
+              "RelativeToolTip": "BookManagement\\BookManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T10:07:43.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookManagement\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "BookManagement\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:06:23.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagement\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\LoginWindow.xaml",
+              "RelativeToolTip": "BookManagement\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T10:06:13.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Model\\Role.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\Model\\Role.cs",
+              "RelativeToolTip": "DataAccess\\Model\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:23:32.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Model\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "DataAccess\\Model\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:23:23.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\Model\\Order.cs",
+              "RelativeToolTip": "DataAccess\\Model\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:23:15.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\Model\\Category.cs",
+              "RelativeToolTip": "DataAccess\\Model\\Category.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:23:06.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\DTO\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "Repository\\DTO\\RoleDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\DTO\\RoleDTO.cs",
+              "RelativeToolTip": "Repository\\DTO\\RoleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:02:33.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\DTO\\OrderDetailDTO.cs",
+              "RelativeDocumentMoniker": "Repository\\DTO\\OrderDetailDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\DTO\\OrderDetailDTO.cs",
+              "RelativeToolTip": "Repository\\DTO\\OrderDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:02:20.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "Repository\\DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "Repository\\DTO\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:01:54.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "Repository\\DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "Repository\\DTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:01:39.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\DTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "Repository\\DTO\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\DTO\\BookDTO.cs",
+              "RelativeToolTip": "Repository\\DTO\\BookDTO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:01:12.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccountDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\DTO\\AccountDTO.cs",
+              "RelativeDocumentMoniker": "Repository\\DTO\\AccountDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\DTO\\AccountDTO.cs",
+              "RelativeToolTip": "Repository\\DTO\\AccountDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:00:58.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\Model\\Account.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Model\\Account.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\Model\\Account.cs",
+              "RelativeToolTip": "DataAccess\\Model\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:49:30.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\Model\\Book.cs",
+              "RelativeToolTip": "DataAccess\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:49:17.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\RoleRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\RoleRepo.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\RoleRepo.cs",
+              "RelativeToolTip": "Repository\\RoleRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:47:20.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetailRepo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\OrderDetailRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderDetailRepo.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\OrderDetailRepo.cs",
+              "RelativeToolTip": "Repository\\OrderDetailRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:46:58.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderRepo.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\OrderRepo.cs",
+              "RelativeToolTip": "Repository\\OrderRepo.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:46:39.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\CategoryRepo.cs",
+              "RelativeToolTip": "Repository\\CategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:46:20.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\BookRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\BookRepo.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\BookRepo.cs",
+              "RelativeToolTip": "Repository\\BookRepo.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwFgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:46:03.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\AccountRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\AccountRepo.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\Repository\\AccountRepo.cs",
+              "RelativeToolTip": "Repository\\AccountRepo.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwv3oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:43:51.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\BookManagement.csproj",
+              "RelativeDocumentMoniker": "BookManagement\\BookManagement.csproj",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\BookManagement.csproj",
+              "RelativeToolTip": "BookManagement\\BookManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T08:39:30.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccess\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\appsettings.json",
+              "RelativeToolTip": "DataAccess\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T08:40:40.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookManageContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\Model\\BookManageContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Model\\BookManageContext.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\Model\\BookManageContext.cs",
+              "RelativeToolTip": "DataAccess\\Model\\BookManageContext.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAUwBoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:37:42.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T08:36:12.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagement\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\MainWindow.xaml",
+              "RelativeToolTip": "BookManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T08:32:43.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookManagement\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\PRN212\\Solution-Trial-PE\\BookManagement\\BookManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BookManagement\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:32:43.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
